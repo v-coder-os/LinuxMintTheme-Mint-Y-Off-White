@@ -8,5 +8,5 @@
   Copy this project to your themes folder, typically located at: /usr/share/themes/
   Navigate to: Start Menu -> Settings -> Themes and select Workspace -> Mint-Y-Off-White.
   Recommended combinations:
-  Applications:   Mint-T-Dark-Blue
+  Applications:   Mint-Y-Dark-Blue
   Icons:          Yaru-Blue
