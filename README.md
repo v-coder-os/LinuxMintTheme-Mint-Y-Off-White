@@ -6,6 +6,7 @@
 ![Alt text](Example/Example_2.png)
 ![Alt text](Example/Example_3.png)
 ![Alt text](Example/Example_4.png)
+![Alt text](Example/Example_5.png)
 #Installation Instructions
 
   Copy this project to your themes folder, typically located at: /usr/share/themes/
