@@ -16,4 +16,4 @@
   
   Applications:   Mint-Y-Off-White
   
-  Icons:          Yaru-Blue
+  Icons:          Papirus
